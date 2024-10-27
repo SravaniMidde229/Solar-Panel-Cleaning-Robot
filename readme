@@ -1,0 +1,19 @@
+# Solar Panel Cleaning System
+
+An automated solar panel cleaning system designed for efficient maintenance using sensors for navigation and a water-efficient cleaning mechanism.
+
+## Features
+- Efficient cleaning of solar panels
+- Navigation and obstacle detection using sensors
+- Water-efficient cleaning mechanism
+
+## Hardware Requirements
+- Microcontroller (e.g., Arduino, Raspberry Pi)
+- Ultrasonic or infrared sensors for obstacle detection
+- Motors and wheels for movement
+- Water reservoir and cleaning mechanism
+- Power supply (batteries or power adapter)
+
+## Software Requirements
+- Arduino IDE or other relevant software for programming the microcontroller
+- Necessary libraries for sensor integration
